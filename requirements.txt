@@ -105,7 +105,7 @@ PyWavelets==1.0.1
 PyYAML==3.13
 pyzmq==17.1.2
 requests==2.19.1
-rsa==4.0
+rsa==4.1
 s3transfer==0.1.13
 scikit-image==0.14.1
 scikit-learn==0.20.1
