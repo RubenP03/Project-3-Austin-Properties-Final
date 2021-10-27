@@ -16,7 +16,7 @@ constantly==15.1.0
 cryptography==2.4.1
 cryptography-vectors==2.3
 cycler==0.10.0
-dask==1.0.0
+dask==2021.10.0
 decorator==4.3.0
 docutils==0.14
 entrypoints==0.2.3
